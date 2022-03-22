@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/reactTest/static/css/main.f90db9cd.css",
-    "main.js": "/reactTest/static/js/main.d70af08c.js",
-    "static/media/WalletCardImage.jpg": "/reactTest/static/media/WalletCardImage.253143007e656a690204.jpg",
-    "static/media/Menu.jpg": "/reactTest/static/media/Menu.3914b7b169cff13c2dd2.jpg",
-    "index.html": "/reactTest/index.html",
-    "main.f90db9cd.css.map": "/reactTest/static/css/main.f90db9cd.css.map",
-    "main.d70af08c.js.map": "/reactTest/static/js/main.d70af08c.js.map"
+    "main.css": "/referralPage/static/css/main.533a4ae5.css",
+    "main.js": "/referralPage/static/js/main.1ada285a.js",
+    "static/media/WalletCardImage.jpg": "/referralPage/static/media/WalletCardImage.253143007e656a690204.jpg",
+    "static/media/left_coins.jpg": "/referralPage/static/media/left_coins.616b312a8962f71c0ff2.jpg",
+    "static/media/Menu.jpg": "/referralPage/static/media/Menu.3914b7b169cff13c2dd2.jpg",
+    "index.html": "/referralPage/index.html",
+    "main.533a4ae5.css.map": "/referralPage/static/css/main.533a4ae5.css.map",
+    "main.1ada285a.js.map": "/referralPage/static/js/main.1ada285a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f90db9cd.css",
-    "static/js/main.d70af08c.js"
+    "static/css/main.533a4ae5.css",
+    "static/js/main.1ada285a.js"
   ]
 }
