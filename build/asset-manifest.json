@@ -1,20 +1,23 @@
 {
-  "files": {
-    "main.css": "/static/css/main.b3d8f414.css",
-    "main.js": "/static/js/main.6b0966aa.js",
-    "static/js/787.62ac895e.chunk.js": "/static/js/787.62ac895e.chunk.js",
-    "static/media/refer.png": "/static/media/refer.e6062109fe62db0101ad.png",
-    "static/media/WalletCardImage.jpg": "/static/media/WalletCardImage.253143007e656a690204.jpg",
-    "static/media/left_coins.jpg": "/static/media/left_coins.616b312a8962f71c0ff2.jpg",
-    "static/media/Menu.jpg": "/static/media/Menu.3914b7b169cff13c2dd2.jpg",
-    "static/media/gift2.png": "/static/media/gift2.936bb2b02e8bf68ca0c2.png",
-    "index.html": "/index.html",
-    "main.b3d8f414.css.map": "/static/css/main.b3d8f414.css.map",
-    "main.6b0966aa.js.map": "/static/js/main.6b0966aa.js.map",
-    "787.62ac895e.chunk.js.map": "/static/js/787.62ac895e.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.b3d8f414.css",
-    "static/js/main.6b0966aa.js"
-  ]
+  "main.css": "/static/css/main.43255e99.chunk.css",
+  "main.js": "/static/js/main.7114beac.chunk.js",
+  "main.js.map": "/static/js/main.7114beac.chunk.js.map",
+  "static/js/1.245363e5.chunk.js": "/static/js/1.245363e5.chunk.js",
+  "static/js/1.245363e5.chunk.js.map": "/static/js/1.245363e5.chunk.js.map",
+  "static/css/2.3b75e197.chunk.css": "/static/css/2.3b75e197.chunk.css",
+  "static/js/2.3a3f5e5b.chunk.js": "/static/js/2.3a3f5e5b.chunk.js",
+  "static/js/2.3a3f5e5b.chunk.js.map": "/static/js/2.3a3f5e5b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.0595fa59.js",
+  "runtime~main.js.map": "/static/js/runtime~main.0595fa59.js.map",
+  "static/media/Menu.jpg": "/static/media/Menu.0e4e4b58.jpg",
+  "static/media/gift2.png": "/static/media/gift2.8fdc5d25.png",
+  "static/media/rewardsImage.png": "/static/media/rewardsImage.f0834438.png",
+  "static/media/how.jpg": "/static/media/how.0b590c70.jpg",
+  "static/media/WalletCardImage.jpg": "/static/media/WalletCardImage.c9f77fcf.jpg",
+  "static/media/App.css": "/static/media/HarmoniaSansProCyr-Bold.ec79aeaf.ttf",
+  "static/css/2.3b75e197.chunk.css.map": "/static/css/2.3b75e197.chunk.css.map",
+  "static/css/main.43255e99.chunk.css.map": "/static/css/main.43255e99.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.aa2727ce2f7d218a8b36dd4aba1b934d.js": "/precache-manifest.aa2727ce2f7d218a8b36dd4aba1b934d.js",
+  "service-worker.js": "/service-worker.js"
 }
